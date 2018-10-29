@@ -1,0 +1,2 @@
+# adesivo
+adesivo stick
